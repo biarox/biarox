@@ -1,7 +1,7 @@
 ## If life gives you rocks, just roll. - Biarox
 
 - 🦄 I’m currently working as a UX Designer
-- 🤖 I’m currently learning Google Gemini 
+- 🤖 I’m currently learning Google Gemini at Imersão Alura 
 - 🎮 I’m looking to collaborate on game development
 - 🕹️ I’m looking for help with game development
 - ♟️ Ask me about Magic Chess Go Go
