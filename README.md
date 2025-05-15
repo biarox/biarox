@@ -1,11 +1,11 @@
-## If life gives you rocks, just roll. - Biarox
+<h2>🎸If life gives you rocks, just roll.</h2>
 
 - 🦄 I’m currently working as a UX Designer
 - 🤖 I’m currently learning Google Gemini at Imersão Alura 
 - 🎮 I’m looking to collaborate on game development
 - 🕹️ I’m looking for help with game development
 - ♟️ Ask me about Magic Chess Go Go
-
+</br></br>
 
 <div> 
   <a href="https://www.linkedin.com/in/biarox" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,7 +15,7 @@
   <a href="https://instagram.com/queensofthegame" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@BeatrizMarques80" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
+</br>
 <h2>🚀 Some Tools I Use</h2>
 <p>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
