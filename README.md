@@ -1,8 +1,8 @@
 <h2>🎸If life gives you rocks, just roll.</h2>
 
-- 🦄 I’m currently working as a UX Designer
-- 🤖 I’m currently learning Google Gemini at Imersão Alura 
-- 🎮 I’m looking to collaborate on game development
+- 🦄 I’m working as a UX Designer
+- 🤖 I’m in love with Gen AI 
+- 🎮 I’m looking to collaborate on AI projects
 - 🕹️ I’m looking for help with game development
 - ♟️ Ask me about Magic Chess Go Go
 </br></br>
